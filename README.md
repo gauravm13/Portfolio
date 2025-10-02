@@ -79,7 +79,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 ## 📸 Screenshot
 
-![Portfolio Website]([(https://github.com/gauravm13/Portfolio/blob/main/public/Screenshot%202025-10-02%20120529.png)])
+![Portfolio Website]([https://github.com/gauravm13/Portfolio/blob/main/public/Screenshot%202025-10-02%20120529.png])
 
 
 ## 🤝 Contributing
@@ -100,3 +100,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - **LinkedIn**: [Gaurav Mishra](https://www.linkedin.com/in/gaurav-mishra13)
 - **GitHub**: [@gauravm13](https://github.com/gauravm13)
 - **Instagram**: [G A U R A V](https://www.instagram.com/gauravmishra_.13)
+
